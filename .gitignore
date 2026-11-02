@@ -1,0 +1,16 @@
+# Visual Studio & .NET Build Artifacts
+**/[Bb]in/
+**/[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Logs & Temporary files
+*.log
+*.tmp
+MailSenderApp/bin/
+MailSenderApp/obj/
